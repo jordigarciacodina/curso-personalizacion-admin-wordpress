@@ -1,0 +1,52 @@
+/* # Custom Admin Styles by Bicicleta Studio - https://bicicieta.studio
+---------------------------------------------------------------------------------------------------- */
+
+/* Login */
+
+body.login div#login h1 a {
+	background-image: url('http://admin.dev/wp-content/uploads/2018/11/bs.png');
+	background-size: contain;
+	height: 70px;
+	width: 100%;
+}
+
+/* Header */
+
+#wpbody-content {
+	padding-top: 80px;
+}
+
+#bs-admin-head {
+	padding: 20px;
+	text-align: center;
+	width: 100%;
+	position: absolute;
+	background-color: #23282d;
+}
+
+#bs-admin-head .bs-logo img {
+	height: 20px;
+}
+
+#bs-admin-head .bs-text {
+	color: #fff;
+}
+
+/* Footer */
+
+#wpfooter {
+	background-color: #23282d;
+	padding: 20px;
+	color: #fff;
+}
+
+#wpfooter a {
+	color: #fff;
+	text-decoration: none;
+}
+
+#footer-left,
+#footer-upgrade {
+	text-align: center;
+	width: 100%;
+}

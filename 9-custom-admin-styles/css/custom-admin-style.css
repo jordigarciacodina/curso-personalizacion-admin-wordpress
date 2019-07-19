@@ -1,0 +1,31 @@
+/* Custom Admin Styles */
+
+#wpfooter {
+	background-color: #fff;
+	padding: 20px;
+}
+
+#footer-left,
+#footer-upgrade {
+	text-align: center;
+	width: 100%;
+}
+
+#wpbody-content {
+	padding-top: 80px;
+}
+
+#bs-admin-head {
+	padding: 20px;
+	text-align: center;
+	width: 100%;
+	position: absolute;
+	background-color: #fff;
+}
+
+body.login div#login h1 a {
+	background-image: url('https://admin.dev/wp-content/mu-plugins/img/bicicleta-studio-long-color.png');
+	background-size: auto;
+	height: 47px;
+	width: 100%;
+}
